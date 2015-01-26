@@ -160,12 +160,11 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 	- [A Brief Rant on the Future of Interaction Design by Bret Victor](lhttp://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 	- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
 - Do:	
-	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
+	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task. See the Make reference pages emailed to you.
 
 
 ###Week 2: February 3
 -In Class:
-		- Parts 101 Quiz
 		- Workshop: Basic Circuits, parallel & series, ohm, switches
 
 - For Homework:
@@ -179,6 +178,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 3: February 10- 
 - In Class: 
+		- **Parts 101 Quiz**
 		- **Present Exercise 1 & Fantasy Device**
 		- Workshop: Switches & DIY
 		- Sketch and Design 3 different custom switches
