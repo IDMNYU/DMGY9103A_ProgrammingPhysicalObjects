@@ -11,7 +11,7 @@
 * **Spring 2015**
 * **Instructor: Katherine Bennett**    
 * **Office hours: by appointment**		
-* **kb2339@nyu.edu** 
+* **katherinebennett@nyu.edu** 
 * **www.katherinebennett.net**
 
 
@@ -66,7 +66,7 @@ Material missed is the responsibility of the student to make up. Speak to severa
 
 ##Correspondence & Communication
 
-Email is the preferred initial contact (kb2339@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
+Email is the preferred initial contact (katherinebennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
 
 For matters longer than 5 sentences, please email me to make an appointment during office hours. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a long email, I am simply going to respond by asking you to meet with me to resolve the matter. I will not resolve matters over email.
 
