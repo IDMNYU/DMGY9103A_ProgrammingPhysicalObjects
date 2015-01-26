@@ -95,7 +95,7 @@ This class assumes no prior knowledge of physical computing, but it does some pr
 		-	DOET Ch. 1
 -	Wordpress site for this and only for this class! Please EMAIL Elton Kwok to get setup. You can email him at: eltonkwok@nyu.edu. Upon emailing Elton, he will set you up on http://sites.bxmc.poly.edu/ . Here you will document your progress of your work in image, video and text. You will also document the end result here. This Wordpress site is largely to document your progress within your projects. This is important to this delicate medium.
 -	A Github handle. Email it to me.
--	Regularly checking out [Github page](https://github.com/NYUProgrammingPhysicalObjects)
+-	Regularly checking out [Github page](https://github.com/IDMNYU/DMGY9103A_ProgrammingPhysicalObjects)
 
 ##Suggested Texts
 
@@ -157,7 +157,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 ####For Homework:
 - Read:
 	- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
-	- A Brief Rant on the Future of Interaction Design by Bret Victor (link)
+	- [A Brief Rant on the Future of Interaction Design by Bret Victor](lhttp://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 	- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
 - Do:	
 	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
