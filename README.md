@@ -72,6 +72,10 @@ For matters longer than 5 sentences, please email me to make an appointment duri
 
 If I have asked you to schedule an appointment with me, I am not trying to avoid you. I am offering you my full attention and preparation. Due to my schedule and other campus responsibilities, I ask you to respond to emails and to be respectful of time.
 
+##Educational Access
+
+If you are student with a learning difference (aka disability) who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found atwww.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+
 ##Prerequisites / Hardware / Software
 
 This class assumes no prior knowledge of physical computing, but it does some presume you have had light exposure to programming. Having prior exposure to Processing, Max/MSP, OF, etc is awesome. We’ll be working with Arduino microcontrollers, electronics, Kinects, and Max/MSP, Processing and Arduino Software. 
@@ -240,7 +244,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Read:
 			- Physical Computing – Ch. 9 Sensing Movement
 		- Do:
-			- TBA
+			- ## [Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
 	
 
 ###Spring Break – March 17th
